@@ -12,6 +12,10 @@ A React UI framework and demo project for Coding Agent / AI IDE experiences.
 
 Lyra Agent UI Demo provides a reusable chat interface for agentic developer tools. It does not prescribe a backend protocol. Instead, your app normalizes backend events into `DataProviderValue` and lets the UI render messages, tool calls, approvals, decisions, todos, diffs, and rich output.
 
+<p align="center">
+  <img src="./docs/images/hero.gif" alt="Lyra Agent UI Demo animated preview" width="900" />
+</p>
+
 ## Preview
 
 <p align="center">

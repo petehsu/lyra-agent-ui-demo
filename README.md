@@ -12,6 +12,10 @@
 
 Lyra Agent UI Demo 提供一套可复用的 Agent 聊天界面：它不绑定任何后端协议，而是通过 `DataProviderValue` 接收应用层整理好的会话状态。你可以把它作为完整 demo 运行，也可以把它作为 UI 框架接入自己的真实 Agent 后端。
 
+<p align="center">
+  <img src="./docs/images/hero.gif" alt="Lyra Agent UI Demo animated preview" width="900" />
+</p>
+
 ## 预览
 
 <p align="center">

@@ -27,7 +27,12 @@
   "types": "./dist-lib/index.d.ts",
   "files": [
     "dist-lib",
-    "INTEGRATION.md"
+    "docs/images",
+    "API.md",
+    "ARCHITECTURE.md",
+    "CONTRIBUTING.md",
+    "INTEGRATION.md",
+    "README.en.md"
   ],
   "exports": {
     ".": {

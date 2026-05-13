@@ -16,17 +16,6 @@ Lyra Agent UI Demo provides a reusable chat interface for agentic developer tool
   <img src="./docs/images/hero.gif" alt="Lyra Agent UI Demo animated preview" width="900" />
 </p>
 
-## Preview
-
-<p align="center">
-  <img src="./docs/images/overview.png" alt="Lyra Agent UI overview" width="860" />
-</p>
-
-<p align="center">
-  <img src="./docs/images/tool-folding.png" alt="Three-level tool folding" width="420" />
-  <img src="./docs/images/panels.png" alt="Decision and permission panels" width="420" />
-</p>
-
 ## What It Is For
 
 - Chat and tool execution UI for coding agents, AI IDEs, and automation assistants.

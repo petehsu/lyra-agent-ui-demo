@@ -16,17 +16,6 @@ Lyra Agent UI Demo 提供一套可复用的 Agent 聊天界面：它不绑定任
   <img src="./docs/images/hero.gif" alt="Lyra Agent UI Demo animated preview" width="900" />
 </p>
 
-## 预览
-
-<p align="center">
-  <img src="./docs/images/overview.png" alt="Lyra Agent UI overview" width="860" />
-</p>
-
-<p align="center">
-  <img src="./docs/images/tool-folding.png" alt="Three-level tool folding" width="420" />
-  <img src="./docs/images/panels.png" alt="Decision and permission panels" width="420" />
-</p>
-
 ## 适合做什么
 
 - 给 Coding Agent、AI IDE、自动化开发助手做聊天与工具执行界面。
